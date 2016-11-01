@@ -58,12 +58,12 @@ Findings
 ###*Northanger Abbey* and*Mansfield Park*
 
 
-![Northanger Abbey](https://github.com/jennaherdman/Austen-text-mining/blob/master/northanger-trends.jpeg?raw=true)
+![Northanger Abbey](https://github.com/jennaherdman/Austen-text-mining/blob/master/northanger-trends.png?raw=true)
 
 [http://voyant-tools.org/?corpus=e218ddd3ea097161c163a80f75c38f85&query=john|mr.%20thorpe*&query=henry|mr.%20tilney&withDistributions=raw&docIndex=0&mode=document&view=Trends](Follow this link for an interactive version of this graph). 
 
 
-![Mansfield Park](https://github.com/jennaherdman/Austen-text-mining/blob/master/mansfield.jpeg?raw=true)
+![Mansfield Park](https://github.com/jennaherdman/Austen-text-mining/blob/master/mansfield.png?raw=true)
 
 [http://voyant-tools.org/?corpus=d6a14f724ec95159d73ecb8c48bb5df4&query=edmund*&query=henry|mr.%20crawford*&withDistributions=raw&docIndex=0&mode=document&view=Trends](Follow this link for an interactive version of this graph). 
 
