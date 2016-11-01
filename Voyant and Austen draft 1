@@ -2,7 +2,7 @@
 
 This is the first draft of an upcoming blog post about text mining Jane Austen novels, and the potential of this research to ask new research questions. I experiment with text mining tool Voyant and Google Ngrams. As an expanded print version of this project is currently being evaluated for a class, I will update the full analysis of the graphs at a further date. 
 
-[Follow this link for more information about Voyant](http://docs.voyant-tools.org/tools/)
+[Follow this link for more information about Voyant](http://docs.voyant-tools.org/tools/).
 
 ##Why Text Mine Austen? 
 
@@ -46,7 +46,7 @@ Findings
 
 ![Sense and Sensibility](https://github.com/jennaherdman/Austen-text-mining/blob/master/sense-trends.jpeg?raw=true)
 
-[Follow this link for an interactive version of this graph](http://voyant-tools.org/?corpus=b521a70350c06325e841ed66af5c4e29&query=willoughby*&query=willoughby&query=colonel*&withDistributions=raw&docIndex=0&mode=document&view=Trends)
+[Follow this link for an interactive version of this graph](http://voyant-tools.org/?corpus=b521a70350c06325e841ed66af5c4e29&query=colonel&query=willoughby*&withDistributions=raw&mode=document&view=Trends).
 
 
 Findings 
@@ -54,7 +54,7 @@ Findings
 * Brandon is steady but not dramatic - the aesthetic quality of the graph reflects the drama of the novel 
 * in comparison to P&P, Willougby’s trend more closely resembles Darcy’s 
 
-###*Northanger Abbey* and*Mansfield Park*
+###*Northanger Abbey* and *Mansfield Park*
 
 
 ![Northanger Abbey](https://github.com/jennaherdman/Austen-text-mining/blob/master/northanger-trends.png?raw=true)
@@ -64,7 +64,7 @@ Findings
 
 ![Mansfield Park](https://github.com/jennaherdman/Austen-text-mining/blob/master/mansfield.png?raw=true)
 
-[Follow this link for an interactive version of this graph](http://voyant-tools.org/?corpus=d6a14f724ec95159d73ecb8c48bb5df4&query=edmund*&query=henry|mr.%20crawford*&withDistributions=raw&docIndex=0&mode=document&view=Trends).
+[Follow this link for an interactive version of this graph](http://voyant-tools.org/?corpus=a99f30c20fdc2d887c74f9bc78c2eddf&query=edmund&query=henry|mr.%20crawford&withDistributions=raw&docIndex=0&mode=document&view=Trends).
 
 
 Findings 
@@ -88,7 +88,7 @@ Findings
 
 * some of Voyant’s tools are inaccessible, require a lot of concentration in clicking and hand-eye coordination 
 * the act of creating the graph is a form of reading and analysis: making informed choices about how to structure and program each one 
-* future studies could look at sentiment analysis by chapter ([see Julia Silge](http://juliasilge.com/blog/Life-Changing-Magic/). 
+* future studies could look at sentiment analysis by chapter - [see Julia Silge](http://juliasilge.com/blog/Life-Changing-Magic/). 
 * useful for undergraduate classes: unpacking the text, looking for patterns, critiquing their results 
 
 ##Thank you! 
