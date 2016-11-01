@@ -16,7 +16,7 @@ This is the first draft of an upcoming blog post about text mining Jane Austen n
 
 ![Austen Trends](https://github.com/jennaherdman/Austen-text-mining/blob/master/unspecified.jpeg?raw=true)
 
-[Follow this link for an interactive version of this graph0(https://books.google.com/ngrams/graph?content=Northanger+Abbey%2CPride+and+Prejudice%2CSense+and+Sensibility%2CMansfield+Park&year_start=1800&year_end=2010&corpus=15&smoothing=3&share=&direct_url=t1%3B%2CNorthanger%20Abbey%3B%2Cc0%3B.t1%3B%2CPride%20and%20Prejudice%3B%2Cc0%3B.t1%3B%2CSense%20and%20Sensibility%3B%2Cc0%3B.t1%3B%2CMansfield%20Park%3B%2Cc0). 
+[Follow this link for an interactive version of this graph](https://books.google.com/ngrams/graph?content=Northanger+Abbey%2CPride+and+Prejudice%2CSense+and+Sensibility%2CMansfield+Park&year_start=1800&year_end=2010&corpus=15&smoothing=3&share=&direct_url=t1%3B%2CNorthanger%20Abbey%3B%2Cc0%3B.t1%3B%2CPride%20and%20Prejudice%3B%2Cc0%3B.t1%3B%2CSense%20and%20Sensibility%3B%2Cc0%3B.t1%3B%2CMansfield%20Park%3B%2Cc0). 
 
 ###Findings 
 * opted out of using *Emma* or *Persuasion* as I thought the titles were too generic to return accurate results 
@@ -35,8 +35,7 @@ This is the first draft of an upcoming blog post about text mining Jane Austen n
 
 ![Pride and Prejudice](https://github.com/jennaherdman/Austen-text-mining/blob/master/p%20and%20p%20terms.jpeg?raw=true)
 
-[http://voyant-tools.org/?corpus=aa5342d4d854354fea80232f149ecf5e&query=wickham*&query=mr%20darcy&withDistributions=raw&docIndex=0&mode=document&view=Trends](Follow this link for an interactive version of this graph). 
-
+[Follow this link for an interactive version of this graph](http://voyant-tools.org/?corpus=aa5342d4d854354fea80232f149ecf5e&query=wickham*&query=mr%20darcy&withDistributions=raw&docIndex=0&mode=document&view=Trends) 
 
 Findings 
 * moments of intersection between the two men 
