@@ -33,7 +33,10 @@ This is the first draft of an upcoming blog post about text mining Jane Austen n
 
 ###*Pride and Prejudice* 
 
-!([Pride and Prejudice](   )
+!([Pride and Prejudice](https://github.com/jennaherdman/Austen-text-mining/blob/master/p%20and%20p%20terms.jpeg?raw=true)
+
+[http://voyant-tools.org/?corpus=aa5342d4d854354fea80232f149ecf5e&query=wickham*&query=mr%20darcy&withDistributions=raw&docIndex=0&mode=document&view=Trends](Follow this link for an interactive version of this graph). 
+
 
 Findings 
 * moments of intersection between the two men 
@@ -42,7 +45,10 @@ Findings
 
 ###*Sense and Sensibility* 
 
-![Sense and Sensibility](  )
+![Sense and Sensibility](https://github.com/jennaherdman/Austen-text-mining/blob/master/sense-trends.jpeg?raw=true)
+
+[http://voyant-tools.org/?corpus=b521a70350c06325e841ed66af5c4e29&query=willoughby*&query=willoughby&query=colonel*&withDistributions=raw&docIndex=0&mode=document&view=Trends](Follow this link for an interactive version of this graph). 
+
 
 Findings 
 * Willoughby appears far more important than Colonel Brandon, except for in the last few segments 
@@ -50,9 +56,17 @@ Findings
 * in comparison to P&P, Willougby’s trend more closely resembles Darcy’s 
 
 ###*Northanger Abbey* and*Mansfield Park*
-![Northanger Abbey](   )
 
-![Mansfield Park](  )
+
+![Northanger Abbey](https://github.com/jennaherdman/Austen-text-mining/blob/master/northanger-trends.jpeg?raw=true)
+
+[http://voyant-tools.org/?corpus=e218ddd3ea097161c163a80f75c38f85&query=john|mr.%20thorpe*&query=henry|mr.%20tilney&withDistributions=raw&docIndex=0&mode=document&view=Trends](Follow this link for an interactive version of this graph). 
+
+
+![Mansfield Park](https://github.com/jennaherdman/Austen-text-mining/blob/master/mansfield.jpeg?raw=true)
+
+[http://voyant-tools.org/?corpus=d6a14f724ec95159d73ecb8c48bb5df4&query=edmund*&query=henry|mr.%20crawford*&withDistributions=raw&docIndex=0&mode=document&view=Trends](Follow this link for an interactive version of this graph). 
+
 
 Findings 
 * far more similar to each other than to P&P and S&S 
@@ -62,7 +76,10 @@ Findings
 
 ##Links - collocation terms in *Sense and Sensibility* 
 
-![S&S links](   ) 
+![S&S links](https://github.com/jennaherdman/Austen-text-mining/blob/master/sense-collocation.jpeg?raw=true) 
+
+[http://voyant-tools.org/?corpus=b521a70350c06325e841ed66af5c4e29&mode=corpus&view=CollocatesGraph](Follow this link for an interactive version of this graph). 
+
 
 * why such a discrepancy between “Marianne” and “Marianne’s”? 
 * requires a lot of intuition/cultivation by the person using the tool, not simply generated 
