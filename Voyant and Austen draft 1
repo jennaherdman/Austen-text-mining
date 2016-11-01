@@ -2,7 +2,7 @@
 
 This is the first draft of an upcoming blog post about text mining Jane Austen novels, and the potential of this research to ask new research questions. I experiment with text mining tool Voyant and Google Ngrams. As an expanded print version of this project is currently being evaluated for a class, I will update the full analysis of the graphs at a further date. 
 
-[http://docs.voyant-tools.org/tools/](Follow this link for more information about Voyant).
+[Follow this link for more information about Voyant](http://docs.voyant-tools.org/tools/)
 
 ##Why Text Mine Austen? 
 
@@ -33,7 +33,7 @@ This is the first draft of an upcoming blog post about text mining Jane Austen n
 
 ###*Pride and Prejudice* 
 
-!([Pride and Prejudice](https://github.com/jennaherdman/Austen-text-mining/blob/master/p%20and%20p%20terms.jpeg?raw=true)
+![Pride and Prejudice](https://github.com/jennaherdman/Austen-text-mining/blob/master/p%20and%20p%20terms.jpeg?raw=true)
 
 [http://voyant-tools.org/?corpus=aa5342d4d854354fea80232f149ecf5e&query=wickham*&query=mr%20darcy&withDistributions=raw&docIndex=0&mode=document&view=Trends](Follow this link for an interactive version of this graph). 
 
