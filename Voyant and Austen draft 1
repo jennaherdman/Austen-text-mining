@@ -14,9 +14,9 @@ This is the first draft of an upcoming blog post about text mining Jane Austen n
 
 * codex is mysterious: represents the relative frequencies of a term or a phrase in all of the books published that year and that are archived on Google books 
 
-###Graph 
+![Austen Trends](https://github.com/jennaherdman/Austen-text-mining/blob/master/unspecified.jpeg?raw=true)
 
-[ ](Follow this link for an interactive version of this graph). 
+[Follow this link for an interactive version of this graph0(https://books.google.com/ngrams/graph?content=Northanger+Abbey%2CPride+and+Prejudice%2CSense+and+Sensibility%2CMansfield+Park&year_start=1800&year_end=2010&corpus=15&smoothing=3&share=&direct_url=t1%3B%2CNorthanger%20Abbey%3B%2Cc0%3B.t1%3B%2CPride%20and%20Prejudice%3B%2Cc0%3B.t1%3B%2CSense%20and%20Sensibility%3B%2Cc0%3B.t1%3B%2CMansfield%20Park%3B%2Cc0). 
 
 ###Findings 
 * opted out of using *Emma* or *Persuasion* as I thought the titles were too generic to return accurate results 
@@ -47,7 +47,7 @@ Findings
 
 ![Sense and Sensibility](https://github.com/jennaherdman/Austen-text-mining/blob/master/sense-trends.jpeg?raw=true)
 
-[http://voyant-tools.org/?corpus=b521a70350c06325e841ed66af5c4e29&query=willoughby*&query=willoughby&query=colonel*&withDistributions=raw&docIndex=0&mode=document&view=Trends](Follow this link for an interactive version of this graph). 
+[Follow this link for an interactive version of this graph](http://voyant-tools.org/?corpus=b521a70350c06325e841ed66af5c4e29&query=willoughby*&query=willoughby&query=colonel*&withDistributions=raw&docIndex=0&mode=document&view=Trends)
 
 
 Findings 
@@ -60,12 +60,12 @@ Findings
 
 ![Northanger Abbey](https://github.com/jennaherdman/Austen-text-mining/blob/master/northanger-trends.png?raw=true)
 
-[http://voyant-tools.org/?corpus=e218ddd3ea097161c163a80f75c38f85&query=john|mr.%20thorpe*&query=henry|mr.%20tilney&withDistributions=raw&docIndex=0&mode=document&view=Trends](Follow this link for an interactive version of this graph). 
+[Follow this link for an interactive version of this graph](http://voyant-tools.org/?corpus=e218ddd3ea097161c163a80f75c38f85&query=john|mr.%20thorpe*&query=henry|mr.%20tilney&withDistributions=raw&docIndex=0&mode=document&view=Trends).
 
 
 ![Mansfield Park](https://github.com/jennaherdman/Austen-text-mining/blob/master/mansfield.png?raw=true)
 
-[http://voyant-tools.org/?corpus=d6a14f724ec95159d73ecb8c48bb5df4&query=edmund*&query=henry|mr.%20crawford*&withDistributions=raw&docIndex=0&mode=document&view=Trends](Follow this link for an interactive version of this graph). 
+[Follow this link for an interactive version of this graph](http://voyant-tools.org/?corpus=d6a14f724ec95159d73ecb8c48bb5df4&query=edmund*&query=henry|mr.%20crawford*&withDistributions=raw&docIndex=0&mode=document&view=Trends).
 
 
 Findings 
@@ -78,7 +78,7 @@ Findings
 
 ![S&S links](https://github.com/jennaherdman/Austen-text-mining/blob/master/sense-collocation.jpeg?raw=true) 
 
-[http://voyant-tools.org/?corpus=b521a70350c06325e841ed66af5c4e29&mode=corpus&view=CollocatesGraph](Follow this link for an interactive version of this graph). 
+[Follow this link for an interactive version of this graph](http://voyant-tools.org/?corpus=b521a70350c06325e841ed66af5c4e29&mode=corpus&view=CollocatesGraph).
 
 
 * why such a discrepancy between “Marianne” and “Marianne’s”? 
