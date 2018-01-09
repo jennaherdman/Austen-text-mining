@@ -2,7 +2,7 @@ title: "Trends & Tribulations: Text Mining Jane Austen Novels "
 description: Jenna Herdman
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
